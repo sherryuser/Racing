@@ -94,8 +94,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-This README file provides an overview of the project, lists the components used, explains how to set up and use the game, and outlines possible future enhancements. It also includes sections for contributing to the project and information about the license.
-```
