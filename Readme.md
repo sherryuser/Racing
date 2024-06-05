@@ -1,5 +1,3 @@
-Certainly! Here’s a README file for the interactive racing game project designed to be used on GitHub.
-
 # Interactive Racing Game with Arduino Nano and Addressable LED Strip
 
 ## Overview
